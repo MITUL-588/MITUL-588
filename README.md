@@ -29,8 +29,8 @@
 <a href="https://github.com/MITUL-588/AIM_sms_bomber"><img title="BD SMS BOMBER" src="https://github-readme-stats.vercel.app/api/pin/?username=MITUL-588&repo=AIM_sms_bomber&theme=vision-friendly-dark"></a>
 <a href="https://github.com/MITUL-588/SEX-TEST"><img title="BD RANDOM CLONING COMMAND" src="https://github-readme-stats.vercel.app/api/pin/?username=MITUL-588&repo=SEX-TEST&theme=dark"></a>
 <a href="https://github.com/MITUL-588/AIM-NEW-7"><img title="7 COUNTRY FB ID CLONING TOOL" src="https://github-readme-stats.vercel.app/api/pin/?username=MITUL-588&repo=AIM-NEW-7&theme=vision-friendly-dark"></a>
-<a href="https://github.com/MITUL-588/Termux-Setup"><img title="Termux basic install & banner setup Tool" src="https://github-readme-stats.vercel.app/api/pin/?username=MITUL-588&repo=Termux-Setup&theme=tokyonight"></a>
+<a href="https://github.com/MITUL-588/Termux_Setup"><img title="Termux basic install & banner setup Tool" src="https://github-readme-stats.vercel.app/api/pin/?username=MITUL-588&repo=Termux_Setup&theme=tokyonight"></a>
 </p>
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-MITUL VAI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/altalimulislam)</br>
+[![Facebook](https://img.shields.io/badge/Facebook-altalimulislam-blue?style=flat-square&logo=facebook)](https://www.facebook.com/altalimulislam)</br>
