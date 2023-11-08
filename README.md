@@ -25,12 +25,12 @@
 </p>
 
 # Tools :
-<a href="https://github.com/MITUL-588/ENC-Py3"><img title="Paid Command" src="https://github-readme-stats.vercel.app/api/pin/?username=MITUL-588&repo=ENC-Py3&theme=chartreuse-dark"></a>
-<a href="https://github.com/MITUL-588/AIM-BOMBER"><img title="Token Ganarator" src="https://github-readme-stats.vercel.app/api/pin/?username=MITUL-588&repo=Token&theme=vision-friendly-dark"></a>
-<a href="https://github.com/MITUL-588/Short"><img title="Command Shorter" src="https://github-readme-stats.vercel.app/api/pin/?username=MITUL-588&repo=Short&theme=dark"></a>
+<a href="https://github.com/MITUL-588/ENC-Py3"><img title="ALL KIND OF ENCRYPTION TOOL" src="https://github-readme-stats.vercel.app/api/pin/?username=MITUL-588&repo=ENC-Py3&theme=chartreuse-dark"></a>
+<a href="https://github.com/MITUL-588/AIM_sms_bomber"><img title="BD SMS BOMBER" src="https://github-readme-stats.vercel.app/api/pin/?username=MITUL-588&repo=AIM_sms_bomber&theme=vision-friendly-dark"></a>
+<a href="https://github.com/MITUL-588/SEX-TEST"><img title="BD RANDOM CLONING COMMAND" src="https://github-readme-stats.vercel.app/api/pin/?username=MITUL-588&repo=SEX-TEST&theme=dark"></a>
 <a href="https://github.com/MITUL-588/B009"><img title="2009 Ids Cloner" src="https://github-readme-stats.vercel.app/api/pin/?username=MITUL-588&repo=B009&theme=vision-friendly-dark"></a>
 <a href="https://github.com/MITUL-588/Master"><img title="Target Id Hack" src="https://github-readme-stats.vercel.app/api/pin/?username=MITUL-588&repo=Master&theme=tokyonight"></a>
 </p>
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-Beta-blue?style=flat-square&logo=facebook)](https://www.facebook.com/altalimulislam)</br>
+[![Facebook](https://img.shields.io/badge/Facebook-MITUL VAI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/altalimulislam)</br>
